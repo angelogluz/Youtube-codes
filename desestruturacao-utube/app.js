@@ -29,7 +29,7 @@ function y (cliente){
 function x ({cpf, telefone, endereco:{cidade}}){
     console.log(cpf);
     console.log('telefone :', telefone);
-    console.log('cidade: ', 'cidade');
+    console.log('cidade: ', cidade);
 }
 
 x(cliente)
