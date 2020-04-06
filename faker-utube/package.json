@@ -1,3 +1,5 @@
+//Contem todos os pacotes npm, guarda metadata relevante para o projeto.
+//O código é utilizado para dar informações a o npm, permitindo que o projeto seja reconhecido. 
 {
   "name": "faker-utube",
   "version": "1.0.0",
