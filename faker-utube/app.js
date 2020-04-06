@@ -1,8 +1,9 @@
 const faker = require('faker');
 
 faker.locale = 'pt_BR';
-const clients = [];
+const clients = []; //Cria o Array "clients" para guardar os clientes.
 
+//Dados do cliente. Nome, email, número de telefone e data de nascimento.
 for (let index = 0; index < 10; index++) {
     const name = faker.name.findName();
     const email = faker.internet.email(name);
@@ -15,8 +16,8 @@ for (let index = 0; index < 10; index++) {
         phoneNumber,
         birth,
     }
-
+//Puxa os dados do cliente.
     clients.push(client);
 }
-
+//Printa os dados do cliente no console.
 console.log(clients);
