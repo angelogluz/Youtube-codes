@@ -35,7 +35,9 @@ https://www.youtube.com/watch?v=_btX8BipL1U
 
 
 ### Como Contribuir
-Contribua com informações pertinentes que ajudem a ler este projeto
+Contribua com informações pertinentes que ajudem a construir este projeto
+Mais informações no link :
+>https://www.youtube.com/watch?v=thtAHpgYVg8&feature=youtu.be
 
 ### Contribuidores
 > Lucas Rutz git - https://github.com/lucasrutz
