@@ -26,7 +26,7 @@
   </a>
   
   <a href="https://github.com/angelogluz/Youtube-codes/blob/master/LICENSE">
-    <img alt="Repository LICENSE" src="	https://img.shields.io/github/license/angelogluz/Youtube-codes">
+    <img alt="Repository LICENSE" src="https://img.shields.io/github/license/angelogluz/Youtube-codes">
   </a>
 </p>
 
