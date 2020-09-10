@@ -2,7 +2,7 @@
   🚀 Projeto Youtube
 </h4>
 <h1 align="center">
-  <img alt="Projeto Youtube" src="https://yt3.ggpht.com/HdaCcqwPt7hWyAwVwbPNPLEXtCT5Y9r3D4DEjDOvelWcBhXXj7wFSBn3YdOZcWi7CxSgjjkHVw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
+  <img alt="Projeto Youtube" src="https://yt3.ggpht.com/HdaCcqwPt7hWyAwVwbPNPLEXtCT5Y9r3D4DEjDOvelWcBhXXj7wFSBn3YdOZcWi7CxSgjjkHVw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
 </h1>
 
 <p align="center">
