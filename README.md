@@ -80,3 +80,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 <a href="https://github.com/angelogluz"><img src="https://github.com/angelogluz.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/goncadanilo"><img src="https://github.com/goncadanilo.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/fuentes71"><img src="https://github.com/fuentes71.png" width="45" height="45"></a> &nbsp;
