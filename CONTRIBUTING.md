@@ -14,7 +14,7 @@ Se você quer contribuir com o repositório, segue um guia rápido:
     
     * Utilize mensagens claras para documentar o seu commit
     * Inclua um Emoji de no início da mensagem do pull request, que esteja de acordo com a tabela de emojis. Veja o emoji adequado [Emojis](#emojis)
-  4. Realize Push para o seu fork e em seguida envie um pull request to the **master** branch
+  4. Realize Push para o seu fork e em seguida envie um pull request para a **master** branch
 
 ## Emojis
 
