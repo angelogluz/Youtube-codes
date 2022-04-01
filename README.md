@@ -82,6 +82,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <a href="https://github.com/goncadanilo"><img src="https://github.com/goncadanilo.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/fuentes71"><img src="https://github.com/fuentes71.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/brunazeved"><img src="https://github.com/brunazeved.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/patrixrs"><img src="https://github.com/patrixrs.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/lucas-raamos"><img src="https://github.com/lucas-raamos" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/AndreCGeraldo"><img src="https://github.com/AndreCGeraldo.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/eli-wojahn"><img src="https://github.com/eli-wojahn.png" width="45" height="45"></a> &nbsp;
