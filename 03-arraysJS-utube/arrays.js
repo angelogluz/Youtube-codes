@@ -58,3 +58,5 @@ let clients = [
       .filter((value, index) => (index % 2 === 0 ? value.birth+=1 : value.birth) )
       console.log('xxx', clients);
   //TODO: Retorna todos as pessoas de sexo masculino
+  let client = clients.filter(client => client.genre === "M");
+  console.log(client);
