@@ -4,6 +4,7 @@ let clients = [
     {name: 'Sansa Stark', birth: 2002, genre: 'F', purchaseDaysAgo: 32},
     {name: 'Dean winchester', birth: 1982, genre: 'M', purchaseDaysAgo: 45},
     {name: 'Ragnar', birth: 1960, genre: 'M', purchaseDaysAgo: 25},
+    {name: 'Elias Wojahn', birth: 1989, genre: 'M', purchaseDaysAgo: 15},
   ]
 
   let ages = [17, 21, 16, 14, 9, 22, 12, 43, 99, 44, 32];
@@ -57,3 +58,5 @@ let clients = [
       .filter((value, index) => (index % 2 === 0 ? value.birth+=1 : value.birth) )
       console.log('xxx', clients);
   //TODO: Retorna todos as pessoas de sexo masculino
+  let client = clients.filter(client => client.genre === "M");
+  console.log(client);
