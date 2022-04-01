@@ -56,4 +56,11 @@ let clients = [
     clients
       .filter((value, index) => (index % 2 === 0 ? value.birth+=1 : value.birth) )
       console.log('xxx', clients);
-  //TODO: Retorna todos as pessoas de sexo masculino
+  //TODO: Retorna quantos são do sexo masculino
+  function buscarMens (clients) {
+    if (clients.genre === 'M') 
+    return clients;
+}
+let numberMens = clients.filter(buscarMens);
+
+console.log(`Existem ${numberMens.length} homens.`);
