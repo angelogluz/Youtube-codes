@@ -33,3 +33,4 @@ Quando estiver criando ou atualizando a mensagem do  <code>pull request</code>,
 ## Leituras de apoio
 + [General GitHub documentation](https://help.github.com/)
 + [GitHub pull request documentation](https://help.github.com/send-pull-requests/)
++ [GitMoji all emojis](https://gitmoji.dev/)
