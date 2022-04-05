@@ -3,6 +3,7 @@ let clients = [
     {name: 'Chuck', birth: 1940, genre: 'M', purchaseDaysAgo: 5},
     {name: 'Sansa Stark', birth: 2002, genre: 'F', purchaseDaysAgo: 32},
     {name: 'Dean winchester', birth: 1982, genre: 'M', purchaseDaysAgo: 45},
+    {name: 'Ricardo Botelho da Silva', birth: 1993, genre: 'M', purchaseDaysAgo: 29},
     {name: 'Ragnar', birth: 1960, genre: 'M', purchaseDaysAgo: 25},
     {name: 'Elias Wojahn', birth: 1989, genre: 'M', purchaseDaysAgo: 15},
   ]
