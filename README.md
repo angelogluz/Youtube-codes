@@ -1,9 +1,7 @@
+![download (1)](https://user-images.githubusercontent.com/53796755/161803805-3ae3dafe-d938-4b49-83d2-6a3e18312ec5.jpeg)
 <h4 align="center">
   🚀 Projeto Youtube
 </h4>
-<h1 align="center">
-  <img alt="Projeto Youtube" src="https://yt3.ggpht.com/HdaCcqwPt7hWyAwVwbPNPLEXtCT5Y9r3D4DEjDOvelWcBhXXj7wFSBn3YdOZcWi7CxSgjjkHVw=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" />
-</h1>
 
 <p align="center">
   <a href="https://github.com/angelogluz/Youtube-codes/stargazers">
@@ -43,23 +41,18 @@ Repositório para armazenar o código de projetos desenvolvidos durante os víde
 
 ## 🚀 Projetos
 
-- [Faker](https://github.com/angelogluz/Youtube-codes/tree/master/01-faker-utube): Neste projeto apresento o Faker.js, uma lib para geração de dados realistas em massa para testes. Veja o [vídeo completo](https://www.youtube.com/watch?v=hmDcbsrmzF4).
+| Projeto | Descrição | Aula |
+|---|---|---|
+| [Faker](https://github.com/angelogluz/Youtube-codes/tree/master/01-faker-utube) | Neste projeto apresento o Faker.js, uma lib para geração de dados realistas em massa para testes | [youtube](https://www.youtube.com/watch?v=hmDcbsrmzF4) |
+| [Operador Rest/Spread](https://github.com/angelogluz/Youtube-codes/tree/master/02-operador-rest-spread-utube) | Neste projeto apresento o que é o rest/spread operator e apresento também exemplos de aplicação dos mesmos | [youtube](https://www.youtube.com/watch?v=MxS8Aq6WIeI) |
+| [Arrays JS](https://github.com/angelogluz/Youtube-codes/tree/master/03-arraysJS-utube) | Neste projeto você vai entender como manipular arrays através das funções map, filter, reduce, includes, find e foreach | [youtube](https://www.youtube.com/watch?v=MXmChiKN4Q4) |
+| [Desestruturação](https://github.com/angelogluz/Youtube-codes/tree/master/04-desestruturacao-utube) | Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários | [youtube](https://www.youtube.com/watch?v=MXmChiKN4Q4) |
+| [Axios](https://github.com/angelogluz/Youtube-codes/tree/master/05-axios-utube) | Neste projeto apresento como consumir de forma simples o webservice utilizando axios e outros conceitos de javascript moderno, tais como: async/await, classes e desestruturação | [youtube](https://www.youtube.com/watch?v=_btX8BipL1U) |
+| [Hello Express](https://github.com/angelogluz/Youtube-codes/tree/master/06-hello-express-utube) | Neste projeto apresento conceitos de rest e http seguido de um hello world em express e algumas dicas para iniciar na tecnologia | [youtube](https://www.youtube.com/watch?v=5ZUQiOJ1yY0) |
+| [Express HTTP](https://github.com/angelogluz/Youtube-codes/tree/master/07-express-http-utube) | Neste projeto apresento como trabalhar com os principais métodos do protocolo HTTP utilizando express | [youtube](https://www.youtube.com/watch?v=bssLyDTgCAE) |
+| [Typescript](https://github.com/angelogluz/Youtube-codes/tree/master/08-typescript-utube) | Neste projeto apresento principais conceitos relacionados ao Typescript com demonstrações práticas | [youtube](https://www.youtube.com/watch?v=MxVNWwhE_Cs) |
+| [Typescript Express](https://github.com/angelogluz/Youtube-codes/tree/master/09-typescript-express-utube) | Neste projeto apresento como e por que organizar o projeto isolando responsabilidades através de models, repositories, services e routers utilizando typescript, node e express | [youtube](https://www.youtube.com/watch?v=0bST47iSmrg) |
 
-- [Operador Rest/Spread](https://github.com/angelogluz/Youtube-codes/tree/master/02-operador-rest-spread-utube): Neste projeto apresento o que é o rest/spread operator e apresento também exemplos de aplicação dos mesmos. Veja o [vídeo completo](https://www.youtube.com/watch?v=MxS8Aq6WIeI).
-
-- [Arrays JS](https://github.com/angelogluz/Youtube-codes/tree/master/03-arraysJS-utube): Neste projeto você vai entender como manipular arrays através das funções map, filter, reduce, includes, find e foreach. Veja o [vídeo completo](https://www.youtube.com/watch?v=MXmChiKN4Q4).
-
-- [Desestruturação](https://github.com/angelogluz/Youtube-codes/tree/master/04-desestruturacao-utube): Neste projeto apresento a 'desestruturação' em Javascript e como aplicá-la em diferentes cenários. Veja o [vídeo completo](https://www.youtube.com/watch?v=MXmChiKN4Q4).
-
-- [Axios](https://github.com/angelogluz/Youtube-codes/tree/master/05-axios-utube): Neste projeto apresento como consumir de forma simples o webservice utilizando axios e outros conceitos de javascript moderno, tais como: async/await, classes e desestruturação. Veja o [vídeo completo](https://www.youtube.com/watch?v=_btX8BipL1U).
-
-- [Hello Express](https://github.com/angelogluz/Youtube-codes/tree/master/06-hello-express-utube): Neste projeto apresento conceitos de rest e http seguido de um hello world em express e algumas dicas para iniciar na tecnologia. Veja o [vídeo completo](https://www.youtube.com/watch?v=5ZUQiOJ1yY0).
-
-- [Express HTTP](https://github.com/angelogluz/Youtube-codes/tree/master/07-express-http-utube): Neste projeto apresento como trabalhar com os principais métodos do protocolo HTTP utilizando express. Veja o [vídeo completo](https://www.youtube.com/watch?v=bssLyDTgCAE).
-
-- [Typescript](https://github.com/angelogluz/Youtube-codes/tree/master/08-typescript-utube): Neste projeto apresento principais conceitos relacionados ao Typescript com demonstrações práticas. Veja o [vídeo completo](https://www.youtube.com/watch?v=MxVNWwhE_Cs).
-
-- [Typescript Express](https://github.com/angelogluz/Youtube-codes/tree/master/09-typescript-express-utube): Neste projeto apresento como e por que organizar o projeto isolando responsabilidades através de models, repositories, services e routers utilizando typescript, node e express. Veja o [vídeo completo](https://www.youtube.com/watch?v=0bST47iSmrg).
 
 ## ⚡ Como executar
 
@@ -94,7 +87,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <a href="https://github.com/eli-wojahn"><img src="https://github.com/eli-wojahn.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/f3lip3mp"><img src="https://github.com/f3lip3mp.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/dumoresco"><img src="https://github.com/dumoresco.png" width="45" height="45"></a> &nbsp;
-
-<a href="https://github.com/R3N4NR"><img src="https://github.com/R3N4NR.png" width="45" height="45"></a> &nbsp
-##COMENTÁRIO RENAN RAMALHO
+<a href="https://github.com/R3N4NR"><img src="https://github.com/R3N4NR.png" width="45" height="45"></a> &nbsp;
 
