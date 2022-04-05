@@ -14,6 +14,19 @@ const cliente = {
     },
 };
 
+const cliente2 = {
+    nome: 'André Geraldo',
+    cpf: '040.459.123.45',
+    nascimento: '04/04/1997',
+    telefone: '945684321',
+    endereco: {
+        rua: 'Avenida Python',
+        cidade: 'Pelotas',
+        estado: 'RS',
+        pais: 'Brasil',
+    },
+};
+
 //DESESTRUTURAÇÃO
 //TODO: Função que recebe um cliente e retorna apenas CPF, telefone e a cidade
 const {cpf, telefone, endereco:{cidade}} = cliente;
