@@ -94,6 +94,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <a href="https://github.com/eli-wojahn"><img src="https://github.com/eli-wojahn.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/f3lip3mp"><img src="https://github.com/f3lip3mp.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/dumoresco"><img src="https://github.com/dumoresco.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/Joorgenho"><img src="https://github.com/Joorgenho.png" width="45" height="45"></a> &nbsp;
 
 <a href="https://github.com/R3N4NR"><img src="https://github.com/R3N4NR.png" width="45" height="45"></a> &nbsp
 ##COMENTÁRIO RENAN RAMALHO
