@@ -12,9 +12,9 @@ class Api {
 //Criação da Classe Address
 class Address {
   constructor({ logradouro, bairro, localidade }) {
-    ;(this.logradouro = logradouro),
-      (this.bairro = bairro),
-      (this.localidade = localidade)
+    (this.logradouro = logradouro),
+    (this.bairro = bairro),
+    (this.localidade = localidade)
   }
 }
 
