@@ -1,6 +1,7 @@
-//DADOS
+//DADO
 const valores = [4, 1, 2, 3, 4, 5]
 const valores2 = [8, 7, 9, 12]
+
 
 const cliente = {
     nome: 'Angelo Luz',
