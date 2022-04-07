@@ -6,6 +6,7 @@ let clients = [
     {name: 'Ricardo Botelho da Silva', birth: 1993, genre: 'M', purchaseDaysAgo: 29},
     {name: 'Ragnar', birth: 1960, genre: 'M', purchaseDaysAgo: 25},
     {name: 'Elias Wojahn', birth: 1989, genre: 'M', purchaseDaysAgo: 15},
+    {name: 'Humberto Meireles', birth: 1985, genre: 'M', purchaseDaysAgo: 20},
   ]
 
   let ages = [17, 21, 16, 14, 9, 22, 12, 43, 99, 44, 32];
