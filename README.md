@@ -82,6 +82,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <a href="https://github.com/goncadanilo"><img src="https://github.com/goncadanilo.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/fuentes71"><img src="https://github.com/fuentes71.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/brunazeved"><img src="https://github.com/brunazeved.png" width="45" height="45"></a> &nbsp;
+<a href="https://github.com/MVMassing"><img src="https://github.com/MVMassing.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/PedroCoutoCampos"><img src="https://github.com/PedroCoutoCampos.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/Ulguim"><img src="https://github.com/Ulguim.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/paulosisti"><img src="https://github.com/paulosisti.png" width="45" height="45"></a> &nbsp;
@@ -97,5 +98,3 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <a href="https://github.com/R3N4NR"><img src="https://github.com/R3N4NR.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/ricardobotelho"><img src="https://github.com/ricardobotelho.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/JonasCouto"><img src="https://github.com/JonasCouto.png" width="45" height="45"></a> &nbsp;
-
-
