@@ -1,3 +1,4 @@
+
 <h4 align="center">
   🚀 Projeto Youtube
 </h4>
@@ -99,3 +100,5 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 <a href="https://github.com/ricardobotelho"><img src="https://github.com/ricardobotelho.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/JonasCouto"><img src="https://github.com/JonasCouto.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/felipesm27"><img src="https://github.com/felipesm27.png" width="45" height="45"></a> &nbsp;
+Projeto Youtube (Escrito por completo)
+
